@@ -1,0 +1,23 @@
+#table{
+    background-color: white;
+    border-radius: 2px;
+    color:black ; 
+}
+
+
+#table h2{
+    font-size: 25px;
+    color:rgb(71, 71, 71);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#table h5{
+    font-size: 15px;
+    color:rgb(71, 71, 71);
+}
+
+#table h6{
+    font-size: 15px;
+    color:rgb(71, 71, 71);
+}
